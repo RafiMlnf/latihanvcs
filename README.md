@@ -1,2 +1,3 @@
 # latihanvcs
-test
+cara install git
+1. 
