@@ -9,3 +9,5 @@ Latihan VCS
     - Pilih bit sesuai windows atau bisa intall recent/latest version
     - Tunggu download selesai
     - Buka Git-(versi)-bit.exe, lalu install
+    
+    tes
