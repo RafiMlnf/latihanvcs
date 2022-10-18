@@ -3,6 +3,8 @@
 Nama : Rafi Maulana Firdaus
 
 NIM : 312210382
+------------------------------------------------------------------------------------------------------------------------------
+Langkah-langkah penggunaan Git
 
 1. Buat repository Github
 ![1  Buatrepo](https://user-images.githubusercontent.com/115614668/196441354-88443fa4-87e6-4bbe-8ffc-1f657b21fdf7.png)
@@ -33,5 +35,5 @@ NIM : 312210382
 ![10  gitpush](https://user-images.githubusercontent.com/115614668/196459621-963617bd-75d1-4672-84c0-2cd8c3a1f83d.png)
 
 11. Ini adalah hasilnya
-![11  Hasil1](https://user-images.githubusercontent.com/115614668/196460293-293f9533-da4a-447d-9081-8cf776c8f08c.png)
+![11  Hasil1](https://user-images.githubusercontent.com/115614668/196461470-bc1e9fbd-749e-4860-9799-508bc006c9b6.png)
 
