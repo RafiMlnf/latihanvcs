@@ -5,7 +5,8 @@ NIM : 312210382
 1. Buat repository Github
 
 2. Masukan nama, lalu create repository
-https://github.com/fferoae/latihanvcs/blob/main/gambar/gb_uatrepo.png
+
+
 3. Buat folder untuk repository lokal
 
 4. Klik kanan > New > Folder
