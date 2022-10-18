@@ -1,5 +1,7 @@
 # latihanvcs
+
 Nama : Rafi Maulana Firdaus
+
 NIM : 312210382
 
 1. Buat repository Github
@@ -27,5 +29,9 @@ NIM : 312210382
 8. Ketik : $ git add . // Gunanya untuk melakukan perubahan atau menambah file pada repository dan jangan lupa ketik : $ git commit -m "(Deskripsikan perubahan)" // Fungsinya menyimpan perubahan
 ![9  gitadd_gitcommit](https://user-images.githubusercontent.com/115614668/196457732-0708446e-1f2b-4c46-87c2-d0e7479235d6.png)
 
-10. Lalu ketik : $ git push untuk mengupload file pada repository lokal ke repository di github
+10. Lalu ketik : $ git push untuk mengupload atau mengsinkronasi file pada repository lokal ke repository di github
+![10  gitpush](https://user-images.githubusercontent.com/115614668/196459621-963617bd-75d1-4672-84c0-2cd8c3a1f83d.png)
+
+11. Ini adalah hasilnya
+![11  Hasil1](https://user-images.githubusercontent.com/115614668/196460293-293f9533-da4a-447d-9081-8cf776c8f08c.png)
 
