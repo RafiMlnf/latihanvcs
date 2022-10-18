@@ -3,10 +3,10 @@ Nama : Rafi Maulana Firdaus
 NIM : 312210382
 
 1. Buat repository Github
+![1  Buatrepo](https://user-images.githubusercontent.com/115614668/196429955-16da0e02-11f7-4eda-bbb9-1f276dcbc066.png)
 
-2. Masukan nama, lalu create repository
+2. Masukan nama repository, lalu create repository dibawah
 ![gb_buatrepo](https://user-images.githubusercontent.com/115614668/196426162-e8ff2a20-1dbc-4705-ba6a-72843e7c2bad.png)
-
 
 3. Buat folder untuk repository lokal
 
