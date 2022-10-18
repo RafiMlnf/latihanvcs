@@ -12,16 +12,20 @@ NIM : 312210382
 ![3  Buatfldlokalrepo](https://user-images.githubusercontent.com/115614668/196440209-aea713f1-84b2-492e-8428-4076202ae4a2.png)
 
 4. Lalu buka git bash, ketik : cd (lokasi folder repository lokal yang baru dibuat)
+![4  CDlokasi](https://user-images.githubusercontent.com/115614668/196456421-41da8858-ecc9-414e-92e9-b25bd9544cce.png)
 
 5. Melakukan inisialisasi folder dengan : $ git init
+![5 git_init](https://user-images.githubusercontent.com/115614668/196456505-0cee09f2-259f-482f-ae81-a2b8bdbdbc24.png)
 
 6. Hubungkan repository lokal dengan repository Github dengan ketik : $ git remote add origin (copy link repository di github)
+![6  Linkgithub](https://user-images.githubusercontent.com/115614668/196456671-d27c6350-154b-4214-abc5-a64ee7298b3f.png)
+![7  Linkgithub](https://user-images.githubusercontent.com/115614668/196456787-2afd1b2f-f63d-4eef-ba5a-2335fbaf91ba.png)
 
 7. Kemudian ketik : $ git status // Untuk mengetahui status pada repository lokal
+![8  gitstatus](https://user-images.githubusercontent.com/115614668/196457386-e2125aad-76d6-4154-835a-2cc3307171e6.png)
 
-8. Ketik : $ git add . // Gunanya untuk melakukan perubahan atau menambah file pada repository
+8. Ketik : $ git add . // Gunanya untuk melakukan perubahan atau menambah file pada repository dan jangan lupa ketik : $ git commit -m "(Deskripsikan perubahan)" // Fungsinya menyimpan perubahan
+![9  gitadd_gitcommit](https://user-images.githubusercontent.com/115614668/196457732-0708446e-1f2b-4c46-87c2-d0e7479235d6.png)
 
-9. Jangan lupa untuk ketik : $ git commit -m "(Deskripsikan perubahan)" // Fungsinya menyimpan perubahan
-
-10. 
+10. Lalu ketik : $ git push untuk mengupload file pada repository lokal ke repository di github
 
