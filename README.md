@@ -5,6 +5,7 @@ NIM : 312210382
 1. Buat repository Github
 
 2. Masukan nama, lalu create repository
+![gb_buatrepo](https://user-images.githubusercontent.com/115614668/196426162-e8ff2a20-1dbc-4705-ba6a-72843e7c2bad.png)
 
 
 3. Buat folder untuk repository lokal
